@@ -1,1 +1,1 @@
-# FileManagerApi
+# Remote File Manager API (C++)
